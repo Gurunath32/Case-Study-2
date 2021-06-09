@@ -1,0 +1,33 @@
+#header img {
+    width: 100px;
+    height: 100px;
+}
+
+.img_result_div {
+    border-radius: 20px;
+    border: 2px solid lime;
+    background-color: lightcyan;
+}
+
+#header {
+    font-family: 'Dela Gothic One', cursive;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+#final_result {
+    box-shadow: 6px 6px 20px lime;
+    letter-spacing: 3px;
+    background-color: lightcyan;
+}
+
+.footer {
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    background-color: darkslateblue;
+}
